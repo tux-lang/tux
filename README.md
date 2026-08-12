@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://frazix.tk">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,js,html,css,rust,lua&perline=9" />
   </a>
 </p>
 <p align="center">
